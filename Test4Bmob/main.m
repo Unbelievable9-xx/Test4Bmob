@@ -13,9 +13,9 @@
 int main(int argc, char * argv[]) {
     @autoreleasepool {
         
-        NSString *key = @"5aceca15675361112e56c487c7dea059";
+        //NSString *key = @"5aceca15675361112e56c487c7dea059";
         
-        [Bmob registerWithAppKey:key];
+        //[Bmob registerWithAppKey:key];
         
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
